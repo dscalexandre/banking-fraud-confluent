@@ -1,0 +1,61 @@
+merchant_id,merchant_name,mcc,city,state,created_at
+95212d6d-1a83-5e35-9df8-6c572b7592d0,Supermercados Synthetic 01,5411,Guarabira,PB,2026-01-01T09:00:00+00:00
+ab7415e0-adaa-5fb6-b2a6-5d8272c370e9,Restaurantes Synthetic 02,5812,Caruaru,PE,2026-01-02T09:00:00+00:00
+db46b1a8-6301-54be-bf30-6a12e56bd1cd,Farmácias Synthetic 03,5912,Caicó,RN,2026-01-03T09:00:00+00:00
+f20a8a20-b900-57bf-bac8-2a7fb30c7df7,Eletrônicos Synthetic 04,5732,Fortaleza,CE,2026-01-04T09:00:00+00:00
+6b997a32-bd6e-54a6-8f81-74d6898c9f37,Vestuário Synthetic 05,5651,Maceió,AL,2026-01-05T09:00:00+00:00
+d8328905-09b0-50ec-b92c-35d42ff7dbce,Livrarias Synthetic 06,5942,Itabaiana,SE,2026-01-06T09:00:00+00:00
+86b1723d-cf1d-5b77-b4cb-97e09f1d5b23,Postos de combustível Synthetic 07,5541,Salvador,BA,2026-01-07T09:00:00+00:00
+6dd6986c-c47e-5d3a-aeaf-6d269e607e75,Varejo diverso Synthetic 08,5999,Parnaíba,PI,2026-01-08T09:00:00+00:00
+5c1c6d00-b741-554a-8eef-bd2d6ad0a76e,Hotéis Synthetic 09,7011,Guarabira,PB,2026-01-09T09:00:00+00:00
+94261ab0-6979-538a-9b42-a70db3de8681,Transporte Synthetic 10,4111,Recife,PE,2026-01-10T09:00:00+00:00
+e41f31ea-1132-5742-b7bf-d4a66939d94c,Supermercados Synthetic 11,5411,Mossoró,RN,2026-01-11T09:00:00+00:00
+20c1677f-f777-54a8-8d03-199ad9b926cc,Restaurantes Synthetic 12,5812,Sobral,CE,2026-01-12T09:00:00+00:00
+6709aa61-a378-5741-a873-f03892294441,Farmácias Synthetic 13,5912,Maceió,AL,2026-01-13T09:00:00+00:00
+aada7a40-ef19-5b88-87b0-599feefa259c,Eletrônicos Synthetic 14,5732,Itabaiana,SE,2026-01-14T09:00:00+00:00
+35202ad9-d916-5045-8d18-0693647a93ba,Vestuário Synthetic 15,5651,Salvador,BA,2026-01-15T09:00:00+00:00
+f58d58b7-4047-502e-99e4-820ad46afb1d,Livrarias Synthetic 16,5942,Parnaíba,PI,2026-01-16T09:00:00+00:00
+2083571a-1cce-54f9-a657-ee40f7bd6c7e,Postos de combustível Synthetic 17,5541,Guarabira,PB,2026-01-17T09:00:00+00:00
+225b4c3f-9d2e-5562-b079-183f1a1aa0a5,Varejo diverso Synthetic 18,5999,Petrolina,PE,2026-01-18T09:00:00+00:00
+fbe430d5-4a35-56a6-8dda-830e4d38ac69,Hotéis Synthetic 19,7011,Natal,RN,2026-01-19T09:00:00+00:00
+06e4c904-68e0-5735-ae2c-7c7eccbbcd59,Transporte Synthetic 20,4111,Juazeiro do Norte,CE,2026-01-20T09:00:00+00:00
+6ff34e38-59b4-5304-9d81-d89f2d78c8c0,Supermercados Synthetic 21,5411,Maceió,AL,2026-01-21T09:00:00+00:00
+991941a9-1acc-5dc8-a703-05fc14710372,Restaurantes Synthetic 22,5812,Itabaiana,SE,2026-01-22T09:00:00+00:00
+c11d9472-c731-599b-bc26-095bfd532df8,Farmácias Synthetic 23,5912,Salvador,BA,2026-01-23T09:00:00+00:00
+0e0677fb-8068-5005-9d08-0efdf8d66578,Eletrônicos Synthetic 24,5732,Parnaíba,PI,2026-01-24T09:00:00+00:00
+4c61dd1f-e3cf-5f03-a035-801b2ff25bad,Vestuário Synthetic 25,5651,Guarabira,PB,2026-01-25T09:00:00+00:00
+cd49416c-8cc6-5b24-ad22-318366073d71,Livrarias Synthetic 26,5942,Caruaru,PE,2026-01-26T09:00:00+00:00
+67ee0999-afd3-5f38-95dd-af6db0cf50e3,Postos de combustível Synthetic 27,5541,Caicó,RN,2026-01-27T09:00:00+00:00
+d123dea3-7de8-5b04-b6dc-935677ca2c7e,Varejo diverso Synthetic 28,5999,Fortaleza,CE,2026-01-28T09:00:00+00:00
+31d84434-0044-5ed8-ae9e-898861e3aa8d,Hotéis Synthetic 29,7011,Maceió,AL,2026-01-29T09:00:00+00:00
+6be3b96c-35ad-56ac-9408-7bf8b96930e7,Transporte Synthetic 30,4111,Itabaiana,SE,2026-01-30T09:00:00+00:00
+9f8e6ab8-846e-55c4-bffa-b4a68f49ed81,Supermercados Synthetic 31,5411,Salvador,BA,2026-01-31T09:00:00+00:00
+7d68cc43-6e81-5522-b89f-cadc40154135,Restaurantes Synthetic 32,5812,Parnaíba,PI,2026-02-01T09:00:00+00:00
+c5f2ffdb-3d02-5ab0-b3b6-9202392cd284,Farmácias Synthetic 33,5912,Guarabira,PB,2026-02-02T09:00:00+00:00
+1d72b3c9-694b-5fd7-9a65-ff2e90415c65,Eletrônicos Synthetic 34,5732,Recife,PE,2026-02-03T09:00:00+00:00
+9fb1baa5-11de-58c2-9195-b9e3cb70b773,Vestuário Synthetic 35,5651,Mossoró,RN,2026-02-04T09:00:00+00:00
+9a22f395-c64c-52ac-860a-f75ea36bd8e1,Livrarias Synthetic 36,5942,Sobral,CE,2026-02-05T09:00:00+00:00
+0c6acc9f-4b89-596e-9475-e9f3ef4aeef6,Postos de combustível Synthetic 37,5541,Maceió,AL,2026-02-06T09:00:00+00:00
+8782c299-4c10-52e8-9cb0-06cc73a6ce14,Varejo diverso Synthetic 38,5999,Itabaiana,SE,2026-02-07T09:00:00+00:00
+4bba9c2c-9c5f-5da3-9524-4c02a9345422,Hotéis Synthetic 39,7011,Salvador,BA,2026-02-08T09:00:00+00:00
+50930d8c-e514-5aff-b047-7a95651ef98a,Transporte Synthetic 40,4111,Parnaíba,PI,2026-02-09T09:00:00+00:00
+58a48807-e720-5a99-8815-77f524af895b,Supermercados Synthetic 41,5411,Guarabira,PB,2026-02-10T09:00:00+00:00
+82337f4b-9dba-53ad-99d9-9ebb460f002e,Restaurantes Synthetic 42,5812,Petrolina,PE,2026-02-11T09:00:00+00:00
+29cfe175-1b73-5d8b-982a-036b1fc4a920,Farmácias Synthetic 43,5912,Natal,RN,2026-02-12T09:00:00+00:00
+7b26ca3d-dea3-57e2-b290-6e653b0b2e4a,Eletrônicos Synthetic 44,5732,Juazeiro do Norte,CE,2026-02-13T09:00:00+00:00
+1849301b-d8af-5063-9516-6fc2948ab626,Vestuário Synthetic 45,5651,Maceió,AL,2026-02-14T09:00:00+00:00
+4e6b3579-7f03-5415-baeb-cd37e5718d6d,Livrarias Synthetic 46,5942,Itabaiana,SE,2026-02-15T09:00:00+00:00
+74733883-36b1-5b6c-a303-284034b090cd,Postos de combustível Synthetic 47,5541,Salvador,BA,2026-02-16T09:00:00+00:00
+38f0fa37-f59f-5fb6-8076-0705736a3814,Varejo diverso Synthetic 48,5999,Parnaíba,PI,2026-02-17T09:00:00+00:00
+0e802267-34a5-5dfe-98fa-bb07050e7949,Hotéis Synthetic 49,7011,Guarabira,PB,2026-02-18T09:00:00+00:00
+5b7e9f6a-97c4-50e6-8837-e13b334bdc72,Transporte Synthetic 50,4111,Caruaru,PE,2026-02-19T09:00:00+00:00
+4a7c9113-741a-52ed-a673-4f5d718d55c8,Supermercados Synthetic 51,5411,Caicó,RN,2026-02-20T09:00:00+00:00
+fd7fab92-fc1c-546c-b34d-21d960cdbf20,Restaurantes Synthetic 52,5812,Fortaleza,CE,2026-02-21T09:00:00+00:00
+1718c205-c8f2-562e-ace7-b0725ccab8d8,Farmácias Synthetic 53,5912,Maceió,AL,2026-02-22T09:00:00+00:00
+30222524-25b4-5420-906f-d56fa40b1a9d,Eletrônicos Synthetic 54,5732,Itabaiana,SE,2026-02-23T09:00:00+00:00
+01415c7b-6140-5022-9aae-0a1156de7944,Vestuário Synthetic 55,5651,Salvador,BA,2026-02-24T09:00:00+00:00
+922d2dbe-ed00-5cf1-9ba8-a7cba316262a,Livrarias Synthetic 56,5942,Parnaíba,PI,2026-02-25T09:00:00+00:00
+e65806a2-a4d5-513b-8790-422862070899,Postos de combustível Synthetic 57,5541,Guarabira,PB,2026-02-26T09:00:00+00:00
+af5aa20f-ab92-5afb-86e5-d94a3380908d,Varejo diverso Synthetic 58,5999,Recife,PE,2026-02-27T09:00:00+00:00
+5a2e8fcb-a144-50fa-bc2a-e6e3b9e953a3,Hotéis Synthetic 59,7011,Mossoró,RN,2026-02-28T09:00:00+00:00
+200d3cb2-b426-54bd-95f4-b5beb9b70c56,Transporte Synthetic 60,4111,Sobral,CE,2026-03-01T09:00:00+00:00

@@ -1,0 +1,6 @@
+dataset,rows,unique_primary_keys,orphan_foreign_keys
+customers,200,200,0
+accounts,240,240,0
+cards,320,320,0
+merchants,60,60,0
+transactions,2000,2000,0
