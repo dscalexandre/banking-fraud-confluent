@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Poetry
+.venv/
+
+# Credenciais e configuração local
+.env
+.env.*
+
+# Exemplo público versionado
+!.env.example
