@@ -1,0 +1,16 @@
+[project]
+name = "banking-fraud-confluent"
+version = "0.1.0"
+description = "Preparação reproduzível de dados sintéticos para PostgreSQL/Neon."
+readme = "README.md"
+authors = [
+  { name = "Alexandre Rodrigues" }
+]
+requires-python = ">=3.12,<3.13"
+
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
